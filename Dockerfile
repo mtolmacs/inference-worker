@@ -1,5 +1,5 @@
 # Use an official ggml-org/llama.cpp image as the base image
-FROM ghcr.io/ggml-org/llama.cpp:server-cuda
+FROM ghcr.io/ggml-org/llama.cpp:server-cuda12-b9222
 
 ENV PYTHONUNBUFFERED=1
 
