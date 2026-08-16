@@ -28,7 +28,7 @@ from utils import JobInput
 
 client = OpenAI(
     base_url="http://localhost:3098/v1/",
-    api_key="dummy_key_for_local_use_only",
+    api_key="none",
 )
 
 

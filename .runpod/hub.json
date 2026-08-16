@@ -1,5 +1,5 @@
 {
-    "title": "llama.cpp inference",
+    "title": "llama.cpp",
     "description": "Run llama.cpp inference using serverless RunPod workers!",
     "type": "serverless",
     "category": "language",
